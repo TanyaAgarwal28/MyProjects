@@ -1,6 +1,4 @@
-/*code for coffee machine
-*hyperskill project
-*/
+//code for coffee machine
 
 import java.util.Scanner;
 import java.lang.*;
